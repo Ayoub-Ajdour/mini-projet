@@ -1,1 +1,1 @@
-# mini-projet
+# Mini-Projet-Programmation-2
